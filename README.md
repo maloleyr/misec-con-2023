@@ -16,3 +16,12 @@ This was the first conference that MISEC has put on. I think it was wildly succe
 I cannot wait until next time! This is what I woke up to. So it was a good sign I think.
 
 ![The Lansing sunrise](/photos_slides/07-morning-PXL_20231118_115544550.jpg)
+
+## Links to notes
+
+- [Keynote - Dug Song](01-keynote.md)
+- [Analysis Without Paralysis](02-analysis-without-paralasis.md)
+- [Tales from the Crypt: A Security Engineer Tells All](03-tales-from-the-crypt.md)
+- [The Security Hitchhikers Guide to API Security](04-hitchhikers-guide-to-api-security.md)
+- [Strategies for Limiting the Threat of Business Email Compromise (BEC)](05-limit-bec.md)
+- [Defending Beyond Defense](06-defending-beyond-defense.md)
