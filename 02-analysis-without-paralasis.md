@@ -8,7 +8,7 @@ This was an excellent presentation by Terryn. It makes a lot of sense that we ne
 
 - chocolatecoat4n6.com
 - You need structure to an investigation.
- - (1) Jumping in leads to burnout.
- - (2) Give realistic expectations.
- - (3) Investigation is not taught often.
+	- (1) Jumping in leads to burnout.
+	- (2) Give realistic expectations.
+	- (3) Investigation is not taught often.
 - 
